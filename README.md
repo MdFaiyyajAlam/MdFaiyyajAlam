@@ -5,6 +5,6 @@
  - 👯 I’m looking to collaborate on Youtube.
  - 🤔 I’m looking for help with CWS(codewithsadiq).
  - 💬 Ask me about laravel any tech related stuff.
- - 📫 How to reach me: Twitter .@MdFaiyyaj.
+ - 📫 How to reach me: [Twitter - @MdFaiyyaj](https://twitter.com/home?lang=en)
  - 😄 Pronouns: He/Him
  - ⚡ Fun fact: I can't live without coding.
